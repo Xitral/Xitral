@@ -1,106 +1,30 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:f97316&height=220&section=header&text=Zander%20Polk&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Geospatial%20Intelligence%20%E2%80%A2%20Research%20Systems&descAlignY=58&descSize=16" />
+
 <div align="center">
 
-# Zander Polk
+[![Website](https://img.shields.io/badge/Website-ardenmeridian.com-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ardenmeridian.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zander%20Polk-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanderpolk/)
+[![Email](https://img.shields.io/badge/Email-zander%40ardenmeridian.com-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zander@ardenmeridian.com)
 
-### Software Builder · Founder · Geospatial Intelligence · Research Systems
+</div>
 
-Building tools at the edge of **space, software, maps, autonomy, and intelligence**.
+<br />
+
+<div align="center">
+
+### Building software at the intersection of maps, space, intelligence, and systems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+software+engineer;Founder+of+Arden+Meridian;Building+geospatial+property+intelligence;Researching+space+systems%2C+autonomy%2C+and+visual+decision+support;Shipping+systems+that+turn+complex+data+into+clear+decisions" />
 
 </div>
 
 ---
 
-## About Me
+## `01` About
 
-I'm a computer scientist, full-stack developer, and founder focused on building real systems that turn complex data into clear decisions.
+I’m **Zander Polk**, a software engineer, founder, and research-oriented builder focused on creating systems that make complex data useful, visual, and actionable.
 
-My work sits at the intersection of:
-
-```txt
-geospatial intelligence  ×  software engineering  ×  research systems  ×  space/cyber
-```
-
-Currently building **Arden Meridian**, a geospatial property intelligence platform that uses satellite imagery, public data, and structured analysis to help businesses make smarter site decisions.
-
-I care about systems that are useful, visual, technically strong, and actually ship.
-
----
-
-## Current Work
-
-### Arden Meridian
-
-**Geospatial property intelligence for real-world site decisions.**
-
-Building tools for property analysis, solar-fit screening, satellite-driven reporting, and commercial intelligence workflows.
-
-### BEACON
-
-**Research software for orbital safety and decision support.**
-
-Focused on uncertainty visualization, proximity-risk analysis, and visually explainable space-domain research tools.
-
-### ORACLE-Ω
-
-**A visual runtime assurance concept for spacecraft telecommand safety.**
-
-Exploring how operators can better understand, verify, and trust autonomous or semi-autonomous space systems.
-
----
-
-## Tech Stack
-
-```ts
-const stack = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Python", "FastAPI", "Node.js", "Supabase"],
-  data: ["PostgreSQL", "Geospatial Data", "Satellite Imagery", "Public Records"],
-  deployment: ["Vercel", "GitHub", "CI/CD"],
-  interests: ["Space Systems", "Cybersecurity", "Autonomy", "Research Software"]
-}
-```
-
----
-
-## What I Build
-
-* Full-stack web applications
-* Geospatial intelligence platforms
-* Research software with visual demos
-* Data-driven dashboards and reports
-* Tools that make complex systems easier to understand
-
----
-
-## Direction
-
-I’m especially interested in software that supports:
+My work centers around **full-stack development**, **geospatial intelligence**, **space systems**, **cybersecurity**, and **research software**. I like building real products that do more than look good in a repository - tools that explain, map, rank, protect, and ship.
 
 ```txt
-better decisions
-clearer visualizations
-safer autonomous systems
-stronger geospatial intelligence
-```
-
-My goal is simple:
-
-> Build systems that look sharp, work reliably, and make people think,
-> “wait, the future is closer than I thought.”
-
----
-
-## Connect
-
-**Website:** https://ardenmeridian.com
-**Company:** Arden Meridian
-**LinkedIn:** https://www.linkedin.com/in/zanderpolk/
-**Email:** zander@ardenmeridian.com
-
----
-
-<div align="center">
-
-### building from above. thinking at system scale.
-
-</div>
+software engineering  ×  geospatial intelligence  ×  research systems  ×  space/cyber
